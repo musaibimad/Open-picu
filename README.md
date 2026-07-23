@@ -1,36 +1,153 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# OpenPICU
 
-## Getting Started
+<p align="center">
+  <h1>🩺 OpenPICU</h1>
+  <h3>The Open Pediatric Critical Care Platform</h3>
+  <p><strong>Evidence • Education • Innovation</strong></p>
+</p>
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Mission
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+OpenPICU is an open-source initiative to create the world's most comprehensive, evidence-based platform dedicated to Pediatric Critical Care.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The platform integrates clinical knowledge, bedside calculators, practice guidelines, landmark research, procedures, drug information, educational resources, and artificial intelligence into a single freely accessible resource.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# What You Can Find
 
-To learn more about Next.js, take a look at the following resources:
+## 📚 Clinical Knowledge
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Respiratory
+- Cardiovascular
+- Neurology
+- Nephrology
+- Endocrinology
+- Gastroenterology
+- Hematology
+- Infectious Diseases
+- Burns
+- Trauma
+- Toxicology
+- Post-operative Critical Care
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🧮 Clinical Calculators
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Oxygenation Index
+- Oxygen Saturation Index
+- P/F Ratio
+- Mechanical Power
+- Driving Pressure
+- VIS
+- GIR
+- Maintenance Fluids
+- Sodium Correction
+- Hypertonic Saline
+- Burn Calculators
+- Acid Base Analysis
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📖 Guidelines
+
+- PALICC
+- Surviving Sepsis Campaign
+- PALS
+- ILAE
+- KDIGO
+- SCCM
+- ELSO
+- ISTH
+- ESPGHAN
+- WHO
+
+---
+
+## 🔬 Landmark Trials
+
+Evidence summaries of important Pediatric Critical Care trials.
+
+---
+
+## 💊 Drug Handbook
+
+Drug monographs including:
+
+- Dose
+- Preparation
+- Monitoring
+- Adverse Effects
+- References
+
+---
+
+## 🫁 Mechanical Ventilation
+
+- Modes
+- Waveforms
+- HFOV
+- NIV
+- APRV
+- Weaning
+- Extubation
+
+---
+
+## ❤️ ECMO
+
+Comprehensive ECMO learning resource.
+
+---
+
+## 🩸 CRRT
+
+Complete CRRT resource including prescriptions and troubleshooting.
+
+---
+
+## 🎓 Learning Center
+
+- PICU Fellowship Notes
+- MCQs
+- Clinical Cases
+- ECG Library
+- X-ray Library
+- Ultrasound
+
+---
+
+## 📈 Research Hub
+
+- Literature Reviews
+- Systematic Reviews
+- Meta-analysis
+- Critical Appraisal
+- Statistics
+
+---
+
+# OpenPICU Principles
+
+✅ Evidence-Based
+
+✅ Open Access
+
+✅ Peer Reviewed
+
+✅ Continuously Updated
+
+✅ Mobile Friendly
+
+---
+
+# License
+
+MIT License
+
+---
+
+**OpenPICU is under active development. Contributions are welcome.**
